@@ -16,7 +16,7 @@
 
 I'm a graduating senior at **Drake University** (Class of 2026) pursuing dual B.S. degrees in **Computer Science** and **Artificial Intelligence** with minors in **Cybersecurity** and **Information Systems**. Starting June 2026, I'll be joining **UL Solutions** as a full-time **AI Incubator Engineer**.
 
-My interests span across AI/ML systems, cybersecurity, and infrastructure automation. When I'm not coding, you'll find me competing in cyber competitions, optimizing my homelab, or experimenting with local AI model inference.
+My interests span across AI/ML systems, cybersecurity, and infrastructure automation. When I'm not coding, you'll find me competing in cyber competitions, optimizing my homelab, or experimenting with local AI.
 
 ---
 
@@ -28,6 +28,8 @@ Joining the AI innovation team to build next-generation solutions
 **Cybersecurity Engineering Intern** @ UL Solutions *(Summer 2025)*  
 Gained hands-on experience in security assessment and vulnerability analysis
 
+**Student Technology Intern** @ Glenview Public School District *(Summer 2024)* 
+Worked with IT supervisors at District 34 by aiding and shadowing upper-level network and security managers.
 ---
 
 ## 🔧 Featured Projects
@@ -44,7 +46,7 @@ Gained hands-on experience in security assessment and vulnerability analysis
 - **Etymology**: Named from Greek "Arche" (ἀρχή) meaning "beginning" - representing the gateway to career journeys
 - **Live**: [archeway.net](https://archeway.net)
 
-### [🐍 VenomX](https://github.com/cpagac)
+### [🐍 VenomX](https://github.com/venomx-pentester)
 **Vulnerability Exploitation via Neural Operative Model** - AI-powered penetration testing assistant leveraging local LLMs
 - **Purpose**: Automate vulnerability discovery and exploitation guidance while maintaining ethical safeguards and eliminating cloud API dependencies
 - **Tech Stack**: `Python` `Llama 3.3 70B` `PostgreSQL + pgvector` `React` `Docker` `Metasploit`
@@ -137,7 +139,7 @@ Active participant in collegiate cybersecurity competitions:
 I'm always interested in collaborating on interesting projects or discussing AI, cybersecurity, and infrastructure. Feel free to reach out!
 
 - 💼 LinkedIn: [Coleman Pagac](https://linkedin.com/in/colemanpagac)
-- 📧 Email: [colemanseth@icloud.com](mailto:colemanseth@icloud.com)
+- 📧 Email: [contact@colemanpagac.com](mailto:contact@colemanpagac.com)
 - 🌐 Website: [colemanpagac.com](https://colemanpagac.com)
 
 ---
