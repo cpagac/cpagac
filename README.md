@@ -129,7 +129,8 @@ Active participant in collegiate cybersecurity competitions:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cpagac&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cpagac&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpagac&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
