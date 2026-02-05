@@ -35,7 +35,7 @@ Worked with IT supervisors at District 34 by aiding and shadowing upper-level ne
 
 ## 🔧 Featured Projects
 
-### [🏛️ ArcheWay](https://archeway.net)
+### [🏛️ Archeway](https://archeway.net)
 **Your Internship Journey Begins Here** - A comprehensive web platform connecting students with internship opportunities
 - **Purpose**: Streamlines the internship search process by matching students with relevant opportunities based on their skills and interests
 - **Tech Stack**: `Flask (Python)` `Tailwind CSS` `JavaScript` `PostgreSQL`
