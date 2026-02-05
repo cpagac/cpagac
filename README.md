@@ -76,7 +76,7 @@ Running enterprise-grade infrastructure for learning and experimentation:
 ## 🏆 Cybersecurity Competitions
 
 Active participant in collegiate cybersecurity competitions:
-- **CDC (Collegiate Defense Competition)** - Blue team defense operations
+- **CDC (Collegiate Defense Competition)** - Blue team defense operations (2nd place)
 - **CTF Challenges** - Penetration testing and vulnerability exploitation
 - **Campus Cyber Club** - Regular training and collaborative learning
 - **CornCon 11** - Networking and knowledge sharing with industry professionals
