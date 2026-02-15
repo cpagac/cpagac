@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/colemanpagac)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:contact@colemanpagac.com)
 [![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome)](https://colemanpagac.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Profile-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/cpagac)
 
 </div>
 
@@ -61,6 +62,11 @@ Worked with IT supervisors at District 34 by aiding and shadowing upper-level ne
 - **Operational Modes**: Stealth, Loud, Reconnaissance-Only, Full Automated
 - **Safety**: Isolated test environment with comprehensive audit logging and mandatory approval workflows
 - **Research Contribution**: Empirical comparison of local vs. cloud LLM performance for security testing tasks
+- **Model Abliteration (Heretic)**:
+  - Forked [Heretic](https://github.com/cpagac/heretic-fork), an open-source LLM abliteration tool using directional ablation with LoRA adapters and Optuna TPE optimization
+  - Contributed FP8/NVFP4 quantization support (+59/-21 lines across 5 files), enabling loading of NVIDIA FP8 models that upstream couldn't handle
+  - Generated custom datasets for abliteration: 1,000 harmful pentesting prompts and 5,000 enhanced harmless prompts, deployed to Hugging Face ([harmful](https://huggingface.co/datasets/cpagac/venomx-pentesting-harmful) | [harmless](https://huggingface.co/datasets/cpagac/venomx-enhanced-harmless))
+  - Built tooling for automated Parquet conversion, train/test splitting, and Hugging Face repository deployment
 
 ### 🏠 Homelab Infrastructure
 Running enterprise-grade infrastructure for learning and experimentation:
@@ -154,6 +160,7 @@ I'm always interested in collaborating on AI, cybersecurity, or infrastructure p
 - 💼 LinkedIn: [Coleman Pagac](https://linkedin.com/in/colemanpagac)
 - 📧 Email: [contact@colemanpagac.com](mailto:contact@colemanpagac.com)
 - 🌐 Website: [colemanpagac.com](https://colemanpagac.com)
+- 🤗 Hugging Face: [cpagac](https://huggingface.co/cpagac)
 
 ---
 
